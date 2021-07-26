@@ -1,0 +1,26 @@
+{
+  "name": "goodbye",
+  "version": "1.0.0",
+  "description": "An au revoir platform",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techie-Pi/goodbye.git"
+  },
+  "keywords": [],
+  "author": "TechiePi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Techie-Pi/goodbye/issues"
+  },
+  "homepage": "https://github.com/Techie-Pi/goodbye#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.11.0"
+  }
+}
