@@ -4,7 +4,8 @@
   "description": "An au revoir platform",
   "main": "src/app.js",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/app.js",
+    "sd:deploy": "pm2 ecosystem.config.js"
   },
   "repository": {
     "type": "git",
