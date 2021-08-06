@@ -1,5 +1,7 @@
 # Goodbye
 
+> An _au revoir_ platform
+
 Do you want to send one time messages? Or say goodbye to someone?
 
 This is your place!
